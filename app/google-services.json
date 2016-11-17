@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "957422034724",
+    "project_id": "myandroidgcm-c3fa5"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957422034724:android:7c693180223bde55",
+        "android_client_info": {
+          "package_name": "com.vmokshagroup.myandroidgcm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMw_Tb-Ar55I0VIYcvqANMxzrRkaM0744"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
